@@ -1,0 +1,14 @@
+{
+    "concept_id": 381270,
+    "code": "49049000",
+    "name": "Parkinson's Disease",
+    "vocabulary": "SNOMED",
+    "types": [
+        "DISORDER"
+    ],
+    "aliases": [
+        "parkinson disease",
+        "parkinson's",
+        "parkinsons"
+    ]
+}

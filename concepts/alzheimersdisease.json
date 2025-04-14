@@ -1,0 +1,14 @@
+{
+    "concept_id": 378419,
+    "code": "26929004",
+    "name": "Alzheimer's Disease",
+    "vocabulary": "SNOMED",
+    "types": [
+        "DISORDER"
+    ],
+    "aliases": [
+        "alzheimer disease",
+        "alzheimer's",
+        "alzheimers"
+    ]
+}

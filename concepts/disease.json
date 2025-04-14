@@ -1,0 +1,12 @@
+{
+    "concept_id": 4279757,
+    "code": "65616008",
+    "name": "Son",
+    "vocabulary": "SNOMED",
+    "types": [
+        "SOCIAL"
+    ],
+    "aliases": [
+        "son"
+    ]
+}

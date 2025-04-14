@@ -1,0 +1,12 @@
+{
+    "concept_id": 12345,
+    "code": "49",
+    "name": "Son's Disease",
+    "vocabulary": "SNOMED",
+    "types": [
+        "MADEUP"
+    ],
+    "aliases": [
+        "son's disease"
+    ]
+}
